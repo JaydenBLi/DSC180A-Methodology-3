@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Jayden Li
-jbl011@ucsd.edu
+Jayden Li and Alexander Evans
